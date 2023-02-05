@@ -23,6 +23,7 @@ List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
+
 Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/7enJ0ev.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
