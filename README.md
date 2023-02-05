@@ -28,7 +28,9 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/7enJ0ev.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
 <!-- Replace this with whatever GIF tool you used! -->
+![codepath_prework](https://user-images.githubusercontent.com/48214719/216810554-5b5ceeb7-bac1-467c-9661-f5fa7c3a1452.gif)
 
 GIF created with LiceCap
 
